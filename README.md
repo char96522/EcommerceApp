@@ -1,8 +1,6 @@
 Hello All, This is a sample design application 👋
 
 
-![IMG-20240412-WA0029](https://github.com/char96522/EcommerceApp/assets/157210781/c00d869c-1fc4-451a-8c1e-c5fbf3eada8c)
-
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -63,6 +61,9 @@ Now that you have successfully run the app, let's modify it.
 ## Congratulations! :tada:
 
 You've successfully run and modified your React Native App. :partying_face:
+![IMG-20240412-WA0029](https://github.com/char96522/EcommerceApp/assets/157210781/c00d869c-1fc4-451a-8c1e-c5fbf3eada8c)
+![IMG-20240412-WA0030](https://github.com/char96522/EcommerceApp/assets/157210781/da98bd4f-dfa4-44cb-80cf-0c63f6ba7282)
+
 
 ### Now what?
 
