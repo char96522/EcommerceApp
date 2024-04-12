@@ -1,4 +1,5 @@
-Hello All, This is a sample design application
+Hello All, This is a sample design application 👋
+
 
 ![IMG-20240412-WA0029](https://github.com/char96522/EcommerceApp/assets/157210781/c00d869c-1fc4-451a-8c1e-c5fbf3eada8c)
 
