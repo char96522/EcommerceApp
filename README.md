@@ -70,6 +70,8 @@ Replacement for vector icons
 In this demo app i used Flaticons website for all the icons we can the color of icons with style tinitColor: <color name>
 
 All Screen Screeshots
+
+
 ![IMG-20240412-WA0030](https://github.com/char96522/EcommerceApp/assets/157210781/da98bd4f-dfa4-44cb-80cf-0c63f6ba7282)
 ![IMG-20240412-WA0029](https://github.com/char96522/EcommerceApp/assets/157210781/448e7e75-eb45-44c2-8141-ee84d5386e9b)
 ![IMG-20240412-WA0031](https://github.com/char96522/EcommerceApp/assets/157210781/86a178e0-78c3-46c7-b2a9-5e3eb7d51214)
